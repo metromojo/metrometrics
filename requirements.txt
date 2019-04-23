@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+geopandas
+folium
+rasterio
+rasterstats
+shapely
+geopy
+branca
